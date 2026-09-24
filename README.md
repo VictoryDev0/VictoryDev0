@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @VictoryDev0
-- 👀 I’m interested in AI & BTC
-- 💞️ I’m looking to collaborate on world-class projects that bring 100million new users to the space.
+### Hi, I'm VictoryDev0 👋
 
-<!---
-VictoryDev0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build practical AI for small and mid-sized businesses: agents, automations and internal tools that take repetitive work off people's desks.
+
+**What I work on**
+- LLM workflows and agents (Claude, Gemini, OpenAI) wired into real business processes
+- Automation pipelines: scraping, enrichment, document processing, notifications
+- Internal dashboards and web apps (Python/Flask, TypeScript/React, Vite, Supabase)
+- Self-hosted infrastructure on Linux VPS (nginx, systemd, cron)
+
+**Interests:** AI agents · on-prem AI for SMEs · Bitcoin
+
+Most of my work is client-facing and lives in private repos. Happy to talk about it, just reach out.
