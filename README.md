@@ -8,10 +8,15 @@ I build practical AI for small and mid-sized businesses: agents, automations and
 - Internal dashboards and web apps (Python/Flask, TypeScript/React, Vite, Supabase)
 - Self-hosted infrastructure on Linux VPS (nginx, systemd, cron)
 
+**Open-source tools**
+- **[pii-anonymizer](https://github.com/VictoryDev0/pii-anonymizer):** detects and redacts personal data in German PDFs, images and text before they reach an LLM. Flask, local OCR, tested.
+- **[doc-tracker](https://github.com/VictoryDev0/doc-tracker):** self-hosted document and link tracking with bot/scanner detection and push alerts. Single-file Python, SQLite.
+- **[serp-engine](https://github.com/VictoryDev0/serp-engine):** Google rank tracker driving Chrome over the raw DevTools Protocol, with block guard and budget caps.
+
 **Projects I'm involved in**
 - **KEOM Protocol / Miden CLOB:** central limit order book on [Miden](https://github.com/0xMiden) (zero-knowledge rollup); repo is private
 - **[1delta](https://github.com/1delta-DAO):** DeFi margin and lending aggregator, working on [frontend-cx](https://github.com/1delta-DAO/frontend-cx)
 
 **Interests:** AI agents · on-prem AI for SMEs · Bitcoin
 
-Most of my work is client-facing and lives in private repos. Happy to talk about it, just reach out.
+Most of my client work lives in private repos. Happy to walk through it, just reach out.
