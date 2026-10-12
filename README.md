@@ -1,6 +1,6 @@
 ### Hi, I'm GK aka VictoryDev0 👋
 
-I build practical AI for small and mid-sized businesses: agents, automations and internal tools that take repetitive work off people's desks.
+I build practical AI for SME's and individual projects: agents, automations and internal tools that take repetitive work off people's desks.
 
 **What I work on**
 - LLM workflows and agents (Claude, Gemini, OpenAI) wired into real business processes
