@@ -10,8 +10,6 @@ I build practical AI for small and mid-sized businesses: agents, automations and
 
 **Open-source tools**
 - **[pii-anonymizer](https://github.com/VictoryDev0/pii-anonymizer):** detects and redacts personal data in German PDFs, images and text before they reach an LLM. Flask, local OCR, tested.
-- **[doc-tracker](https://github.com/VictoryDev0/doc-tracker):** self-hosted document and link tracking with bot/scanner detection and push alerts. Single-file Python, SQLite.
-- **[serp-engine](https://github.com/VictoryDev0/serp-engine):** Google rank tracker driving Chrome over the raw DevTools Protocol, with block guard and budget caps.
 
 **Projects I'm involved in**
 - **KEOM Protocol / Miden CLOB:** central limit order book on [Miden](https://github.com/0xMiden) (zero-knowledge rollup); repo is private
