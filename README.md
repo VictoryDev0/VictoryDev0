@@ -1,4 +1,4 @@
-### Hi, I'm VictoryDev0 👋
+### Hi, I'm GK aka VictoryDev0 👋
 
 I build practical AI for small and mid-sized businesses: agents, automations and internal tools that take repetitive work off people's desks.
 
